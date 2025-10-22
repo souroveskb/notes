@@ -1,6 +1,6 @@
 ---
 title: Notes start
-draft: true
+draft: false
 tags:
   - example-tag
 ---

@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Notebook
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a notebook in my local computer.
