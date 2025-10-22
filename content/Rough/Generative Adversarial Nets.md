@@ -1,7 +1,7 @@
 ---
-title: Notes start
+title: Generative Adversarial Nets
 draft: false
 tags:
-  - example-tag
+  - IS_755
 ---
-## Generative Adversarial Nets
+## Generative Adversarial Nets 

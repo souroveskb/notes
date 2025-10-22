@@ -2,7 +2,7 @@
 title: Notes start
 draft: false
 tags:
-  - example-tag
+  - IS_755
 ---
 Markdown usage *hello* [[fun links]]
 
