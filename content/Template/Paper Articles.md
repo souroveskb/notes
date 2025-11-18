@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 draft: false
 tags:
 ---
@@ -15,5 +15,7 @@ tags:
 
 
 
-
+| Venue | Year | Authors | Affiliations | URL |
+|-------|------|---------|--------------|-----|
+| N/A | N/A | N/A | N/A | N/A |
 ##### Concept: {{Title}}
