@@ -12,7 +12,9 @@ Taxonomy plays a crucial role in -
 - Knowledge organization
 - Information retrieval 
 - Task understanding
-primarily through establishing hierarchical relationship between concepts.
+
+
+Primarily through establishing hierarchical relationship between concepts.
 However, diverse application domains and scenarios impose varying requirements on taxonomic structure and content. Presenting significant challenges in taxonomy construction and evaluation.
 
 
