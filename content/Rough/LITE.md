@@ -1,9 +1,9 @@
 ---
-title: "LITE: LLM-Impelled efficient Taxonomy Evaluation" 
+title: LITE
 draft: false
 tags:
 ---
-## Summary
+## LITE: : LLM-Impelled efficient Taxonomy Evaluation
 LLM based evaluation method for efficient and flexible assessment of taxonomy quality.
 
 
@@ -24,9 +24,10 @@ However, diverse application domains and scenarios impose varying requirements o
 
 
 
+Related papers to cover: [[TaxoEnrich]], [[TaxoExpan]]
 
 | Venue | Year | Authors | Affiliations | URL |
 |-------|------|---------|--------------|-----|
 | N/A | N/A | Lin Zhang, Zhouhong Gu, Suhang Zheng, Tao Wang, Tianyu Li, Hongwei Feng, Yanghua Xiao | Shanghai Key Laboratory of Data Science, School of Computer Science, Fudan University; Alibaba Group |  |
-Related papers to cover: [[TaxoEnrich]] [[TaxoExpan]]
+
 ##### Concept: LITE

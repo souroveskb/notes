@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "{{Title}}"
 draft: false
 tags:
 ---
-## Summary
+## {{Title}}: 
 
 
 

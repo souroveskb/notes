@@ -1,9 +1,9 @@
 ---
-title: "TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network"
+title: TaxoExpan
 draft: false
 tags:
 ---
-## Summary
+## TaxoExpan : Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network
 
 
 

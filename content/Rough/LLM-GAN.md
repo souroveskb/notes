@@ -1,9 +1,9 @@
 ---
-title: "LLM-GAN: Construct Generative Adversarial Network Through Large Language Models For Explainable Fake News Detection"
+title: LLM-GAN
 draft: false
 tags:
 ---
-## Summary
+## LLM-GAN: Construct Generative Adversarial Network Through Large Language Models For Explainable Fake News Detection
 
 A framework that utilizes prompting mechanisms to enable LLM to become generator and detector for realistic fake news generation and detection.
 ![[Fake_news_LLM_GAN.png]]
