@@ -1,9 +1,9 @@
 ---
-title: "{{Title}}"
-draft: false
+title: LLMs are good relational learners
+draft: true
 tags:
 ---
-## {{Title}}: 
+## LLMs are good relational learners: 
 
 
 
@@ -18,4 +18,4 @@ tags:
 | Venue | Year | Authors | Affiliations | URL |
 | ----- | ---- | ------- | ------------ | --- |
 | N/A   | N/A  | N/A     | N/A          | N/A |
-##### Concept: {{Title}}
+##### Concept: LLMs are good relational learners
