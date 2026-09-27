@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "sourove.github.io/notes",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Template/**", "OffSite/**"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
